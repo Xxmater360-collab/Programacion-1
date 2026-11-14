@@ -1,7 +1,7 @@
 """
 Archivo: Figuras.py
 Descripción:
-Autores: Victor Hugo Inda Miramontes, Diego Rafael Nava Hernandez
+Autores: Xxmater360
 Fecha: 03/11/2026
 """
 

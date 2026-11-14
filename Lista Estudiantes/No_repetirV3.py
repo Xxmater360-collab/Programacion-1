@@ -1,7 +1,7 @@
 """
 Nombre del archivo: No_repetirV2.py
 Descripción: Captura la calificación de n estudiantes y las almacene en una lista. Calcula el promedio de las calificaciones capturadas y después presenta el promedio grupal, lista todos los estudiantes (por número) que tienen una calificación superior al promedio grupal.
-Autor: Diego Nava Hernandez
+Autor: Xxmater360
 Fecha: 06/11/2026
 """
 

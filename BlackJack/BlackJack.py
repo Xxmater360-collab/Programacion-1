@@ -1,7 +1,7 @@
 """
 Archivo: Util_BlackJack.py
 Descripcion: Interfaz grafica de Blackjack.
-Autores: Victor Hugo Inda Miramontes, Diego Rafael Nava Hernandez
+Autores: Xxmater360
 Fecha: 10/11/2026
 """
 ##Se adjunta el modulo de logica de Util_BlackJack.py

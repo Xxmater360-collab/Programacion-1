@@ -1,3 +1,6 @@
+'''
+Autor: Xxmater360
+'''
 import numpy as np
 
 tablero = np.array([["1|","|2|","|3"],

@@ -15,7 +15,7 @@ Incluye:
 """
 Archivo: Util_BlackJack.py
 Descripcion: Modulo necesario para la logica de la interfaz grafica de Blackjack.
-Autores: Victor Hugo Inda Miramontes, Diego Rafael Nava Hernandez
+Autores: Xxmater360
 Fecha: 10/11/2026
 """
 
