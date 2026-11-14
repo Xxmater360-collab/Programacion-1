@@ -8,7 +8,7 @@ Fecha: 06/11/2026
 estudiantes = int(input("Ingrese la cantidad de estudiantes > "))
 
 alumnos = []
-
+##Captura los nombres de los estudiantes junto a sus calificaciones.
 for i in range(estudiantes):
     nom = input("\nIngrese el nombre del estudiante > ")
     n = int(input("\nIngrese la calificación > "))
