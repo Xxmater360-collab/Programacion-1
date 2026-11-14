@@ -17,4 +17,7 @@ Da elegir 8 figuras como reloj de arena, rombo, moño y copa o todas las anterio
 ### Lista Estudiantes
 Calcula el promedio de n estudiantes y muestra los nombres de los con mayor calificacion del promedio grupal.
 ### Palabra Invertida
-Inverte una frase o palabra 
+invierte una frase o palabra.
+
+### Minimo_maximo
+Calcula el minimo y maximo de 3 numeros.
