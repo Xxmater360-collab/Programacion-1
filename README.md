@@ -9,8 +9,13 @@ programa se encuentra en su propia carpeta.
 
 ### Juego del gato
 Juego para dos participantes con un tablero de 3 por 3.
+
+## Ejecucion de un programa
+
 ### BlackJack
 El juego clasico de Blackjack de jugador contra dealer en formato grafico.
+
+Abre solo el archivo principal de BlackJack para iniciar una partida y elije una de las 2 opciones : pedir una carta o plantarse, tras el resultado da click a rejugar para inicar nueva ronda.
 ### Figuras
 Da elegir 8 figuras como reloj de arena, rombo, moño y copa o todas las anteriores. Junto a la opcion de mostrar hueco.
 
