@@ -2,27 +2,40 @@
 Este repositorio contiene los programas y ejercicios
 desarrollados durante la materia de Programación 1.
 
-Los ejercicios están organizados por temas, y cada
-programa se encuentra en su propia carpeta.
+## Contenido
+| Programa | Función |
+| --- | --- |
+| `BlackJack/BlackJack.py` | Ejecuta el juego del Blackjack |
+| `BlackJack/Util_BlackJack.py` | Modulo de logica del juego |
+| `Figuras/Figuras.py`| Crea figuras con simbolos |
+| `Juego del Gato/Juego del gato.py`| Permite jugar al gato|
+| `Lista Estudiantes/No_repetirV3.py`| Saca calificacion global e max y min de calificacion |
+| `Minimo_maximo.py/minimo_maximo.py`| Saca minimos y max de una secuencia de numeros |
+| `Palabra invertida/palabra_invertida.py`| Invierte una frase o palabra|
+## Requisitos
+Tener instalado Python 3
+## Cómo ejecutar los programas
+### Palabra invertido
+**Requisitos**
+- Tener instalado Python 3
 
-## Programas incluidos
+**Ubicación:**
+ `Palabra invertida/palabra_invertida.py`
 
-### Juego del gato
-Juego para dos participantes con un tablero de 3 por 3.
+**Para ejecutarlo:**
+```bash
+python3 palabra_invertida.py
+```
+## Ejemplo de funcionamiento
+Al ejecutar `palabra_invertida.py` , 
 
-## Ejecucion de un programa
-
-### BlackJack
-El juego clasico de Blackjack de jugador contra dealer en formato grafico.
-
-Abre solo el archivo principal de BlackJack para iniciar una partida y elije una de las 2 opciones : pedir una carta o plantarse, tras el resultado da click a rejugar para inicar nueva ronda.
-### Figuras
-Da elegir 8 figuras como reloj de arena, rombo, moño y copa o todas las anteriores. Junto a la opcion de mostrar hueco.
-
-### Lista Estudiantes
-Calcula el promedio de n estudiantes y muestra los nombres de los con mayor calificacion del promedio grupal.
-### Palabra Invertida
-invierte una frase o palabra.
-
-### Minimo_maximo
-Calcula el minimo y maximo de 3 numeros.
+**Ejemplo de entrada y salida:**
+```text
+Calculadora básica
+Selecciona una operación (+, -, *, /): +
+Ingresa el primer número: 15
+Ingresa el segundo número: 8
+Resultado: 23
+```
+## Autor
+Diego Rafael Nava Hernández
