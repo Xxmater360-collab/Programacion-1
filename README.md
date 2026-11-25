@@ -27,15 +27,16 @@ Tener instalado Python 3
 python3 palabra_invertida.py
 ```
 ## Ejemplo de funcionamiento
-Al ejecutar `palabra_invertida.py` , 
+Al ejecutar `palabra_invertida.py` , el programa solicitara la palabra o frase a voltear.
 
 **Ejemplo de entrada y salida:**
 ```text
-Calculadora básica
-Selecciona una operación (+, -, *, /): +
-Ingresa el primer número: 15
-Ingresa el segundo número: 8
-Resultado: 23
+Ingresa la cadena: Hola <-
+
+-> Cadena invertida = aloH
 ```
+
+![Ejecución del programa](Capturas/Ejecucion.png)
+
 ## Autor
 Diego Rafael Nava Hernández
